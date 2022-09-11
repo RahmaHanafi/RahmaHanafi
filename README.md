@@ -14,7 +14,7 @@
 - 📫 How to reach me **rahmahanafi809@gmail.com**
 
 <h3 align="left">
-            <img src="connect_with_me.gif" width=50 height=50> 
+            <img src="connect_with_me.gif" width=40 height=50> 
             Connect with me:
         </h3>
 <p align="center">
