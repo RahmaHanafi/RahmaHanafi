@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rahma Elsayed    <img src="hi.gif" width=60 height=60> </h1>
 <h3 align="center">Mobile Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmahanafi&label=Profile%20views&color=0e75b6&style=flat" alt="rahmahanafi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rahmahanafi&label=Profile%20views&color=0e75b6&style=flat" alt="rahmahanafi" /> </p>
 
 - 🔭 I’m currently working on **Flutter Development**
 
