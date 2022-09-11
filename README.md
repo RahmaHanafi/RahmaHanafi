@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rahma Elsayed    <img src="hi.gif" width=75 height=75> </h1>
+<h1 align="center">Hi, I'm Rahma Elsayed    <img src="Hi.gif" width=75 height=75> </h1>
 <h3 align="center">Mobile Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahmahanafi&label=Profile%20views&color=0e75b6&style=flat" alt="rahmahanafi" /> </p>
