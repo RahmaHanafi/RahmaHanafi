@@ -11,6 +11,7 @@
 - 🔭 I’m currently working on **Flutter Development**
 
 - 👯 I’m looking to collaborate on **Flutter projects**
+<img src="person.gif" width=170 height=200 align="right">
 
 - 👩🏻‍💻 All of my projects are available at [https://github.com/RahmaHanafi](https://github.com/RahmaHanafi)
 
@@ -20,7 +21,7 @@
 
 - ⚡ Fun fact **I love playing chess♟️**
 
-<img src="person.gif" width=170 height=200 align="right">
+
 
 <h3 align="left">
             <img src="connect_with_me.gif" width=60 height=50> 
