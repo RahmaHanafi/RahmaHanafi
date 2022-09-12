@@ -2,7 +2,7 @@
 <h3 align="center">Mobile Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahmahanafi&label=Profile%20views&color=0e75b6&style=flat" alt="rahmahanafi" /> </p>
-<img src="person.gif" width=170 height=200 align="right"> 
+ 
 
 <h3 align="left">
             <img src="about_me.gif" width=60 height=60> 
@@ -19,6 +19,8 @@
 - 📫 How to reach me **rahmahanafi809@gmail.com**
 
 - ⚡ Fun fact **I love playing chess♟️**
+
+<img src="person.gif" width=170 height=200 align="right">
 
 <h3 align="left">
             <img src="connect_with_me.gif" width=60 height=50> 
