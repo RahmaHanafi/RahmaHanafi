@@ -12,7 +12,6 @@
             About me:
         </h3>
 <img src="person.gif" width=170 height=200 align="right">
-- 👩🏻‍🎓 I recently graduated from **Faculty of Computers and Information, Suez Canal University**
 
 - 👩🏻‍🎓 I recently graduated from **Faculty of Computers and Information, Suez Canal University**
 
@@ -29,6 +28,7 @@
 - ⚡ Fun fact **I love playing chess♟️**
 
 
+<br>
 
 <h3 align="left">
             <img src="connect-with-me1.gif" width=60 height=60> 
@@ -40,6 +40,8 @@
 <a href="https://fb.com/rahma.hanafy.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahma.hanafy.92" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rahmahanafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rahmahanafi" height="30" width="40" /></a>
 </p>
+
+<br>
 
 
 <h3 align="left">
