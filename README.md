@@ -1,39 +1,8 @@
 <h1 align="center">Hi, I'm Rahma Hanafi    <img src="Hi.gif" width=50 height=70> </h1>
-<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
-<svg xmlns='http://www.w3.org/2000/svg'
-            xmlns:xlink='http://www.w3.org/1999/xlink'
-            viewBox='0 0 600 100'
-            style='background-color: #00000000;'
-            width='600px' height='100px'>
 
-
-            <path id='path0'>
-                <animate id='d0' attributeName='d' begin='0s;d1.end' dur='6000ms'
-                    values='m0,50 h0 ; m0,50 h600 ; m0,50 h600 ; m0,50 h0'
-                    keyTimes='0;0.8;0.8;1' />
-            </path>
-            <text font-family='"Time New Roman", Cambria ' fill='#bf91f3' font-size='27'
-                dominant-baseline='middle'
-                x='50%' text-anchor='middle'>
-                <textPath xlink:href='#path0'>
-                    Mobile Application Developer *Flutter*
-                </textPath>
-            </text>
-
-            <path id='path1'>
-                <animate id='d1' attributeName='d' begin='d0.end' dur='5000ms'
-                    values='m0,50 h0 ; m0,50 h600 ; m0,50 h600 ; m0,50 h0'
-                    keyTimes='0;0.8;0.8;1' />
-            </path>
-            <text font-family='"Time New Roman", Cambria ' fill='#70a5fd' font-size='27'
-                dominant-baseline='middle'
-                x='50%' text-anchor='middle'>
-                <textPath xlink:href='#path1'>
-                    Problem Solver
-                </textPath>
-            </text>
-
-         </svg>
+<a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.demolab.com?font=Cambria&size=25&pause=1000&color=44E7F7&center=true&width=435&lines=Mobile+Application+Developer+%22Flutter%22;Problem+Solver" alt="Typing SVG" />
+</a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahmahanafi&label=Profile%20views&color=0e75b6&style=flat" alt="rahmahanafi" /> </p>
  
