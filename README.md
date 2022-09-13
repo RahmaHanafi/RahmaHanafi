@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Rahma Hanafi    <img src="Hi.gif" width=50 height=70> </h1>
-<svg xmlns='http://www.w3.org/2000/svg'
+<p align="center">
+            <svg xmlns='http://www.w3.org/2000/svg'
             xmlns:xlink='http://www.w3.org/1999/xlink'
             viewBox='0 0 600 100'
             style='background-color: #00000000;'
@@ -32,8 +33,8 @@
                 </textPath>
             </text>
 
-         </svg>
-
+            </svg>
+        </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahmahanafi&label=Profile%20views&color=0e75b6&style=flat" alt="rahmahanafi" /> </p>
  
 <h3 align="left">
