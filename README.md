@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmahanafi&label=Profile%20views&color=0e75b6&style=flat" alt="rahmahanafi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmahanafi&label=Profile%20views&color=0e75b6&style=flat-square" alt="rahmahanafi" /> </p>
 <h1 align="center">Hi, I'm Rahma Hanafi    <img src="Hi.gif" width=50 height=70> </h1>
 
 <p align="center">
