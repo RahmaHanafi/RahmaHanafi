@@ -59,7 +59,7 @@
 <!--_duo-->
 <br>
 <p align="center">
-&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rahmahanafi&show_icons=true&locale=en&theme=tokyonight" alt="rahmahanafi" /> 
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmahanafi&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="rahmahanafi" />
+&nbsp;<img width="45%" src="https://github-readme-stats.vercel.app/api?username=rahmahanafi&show_icons=true&locale=en&theme=tokyonight" alt="rahmahanafi" /> 
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmahanafi&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="rahmahanafi" />
 </p>
 
