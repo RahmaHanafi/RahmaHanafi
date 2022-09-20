@@ -13,7 +13,7 @@
         </h3>
 <img src="person.gif" width=170 height=200 align="right">
 
-- 👩🏻‍🎓 I recently graduated from **Faculty of Computers and Information, Suez Canal University**
+- 👩🏻‍🎓 I recently graduated from **Faculty of Computers and Informatics, Suez Canal University**
 
 <!--- 🔭 I’m currently working on **Flutter Development**-->
 
