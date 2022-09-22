@@ -56,7 +56,7 @@
 <br>
 
 <p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=rahmahanafi&theme=tokyonight_duo&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="rahmahanafi" />
+<img width="60%" src="https://streak-stats.demolab.com?user=rahmahanafi&theme=tokyonight_duo&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="rahmahanafi" />
 </p>
 
 <!--&nbsp;<img width="45%" src="https://github-readme-stats.vercel.app/api?username=rahmahanafi&show_icons=true&locale=en&theme=tokyonight" alt="rahmahanafi" /> 
