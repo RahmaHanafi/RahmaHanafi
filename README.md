@@ -38,13 +38,20 @@
 <a href="https://twitter.com/rahmahanafi00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahmahanafi00" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahma-hanafi-6416a1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahma-hanafi-6416a1210" height="30" width="40" /></a>
 <a href="https://fb.com/rahma.hanafy.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahma.hanafy.92" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rahmahanafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rahmahanafi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rahmahanafi809?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="rahmahanafi" height="30" width="40" /></a>
 </p>
 
 <br>
 
+<h3 align="left">
+            <img src="connections.gif" width=60 height=60> 
+            My competitive programming profiles:
+        </h3>
+<p align="center">
+<a href="https://codeforces.com/profile/rahmahanafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rahmahanafi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rahmahanafi809?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="rahmahanafi" height="40" width="40" /></a>
+</p>
 
+<br>
 <h3 align="left">
             <img src="languages_tools.gif" width=60 height=60> 
             Languages and Tools:
