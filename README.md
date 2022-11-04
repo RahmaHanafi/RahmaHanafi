@@ -47,8 +47,8 @@
             My competitive programming profiles:
         </h3>
 <p align="center">
-<a href="https://codeforces.com/profile/rahmahanafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rahmahanafi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rahmahanafi809?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="rahmahanafi" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/rahmahanafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rahmahanafi" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/rahmahanafi809?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="rahmahanafi" height="50" width="50" /></a>
 </p>
 
 <br>
