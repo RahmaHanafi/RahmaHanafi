@@ -2,9 +2,9 @@
 <h1 align="center">Hi, I'm Rahma Hanafi    <img src="Hi.gif" width=50 height=70> </h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.demolab.com?font=Cambria&size=25&pause=1000&color=70A5FD&center=true&width=435&lines=Mobile+Application+Developer+%22Flutter%22;Problem+Solver" alt="Typing SVG" /></a>
-</p>
+</p> -->
 
  
 <h3 align="left">
@@ -17,11 +17,11 @@
 
 <!--- 🔭 I’m currently working on **Flutter Development**-->
 
-- 👯 I’m looking to collaborate on **Flutter projects**
+<!-- - 👯 I’m looking to collaborate on **Flutter projects** -->
 
 - 👩🏻‍💻 All of my projects are available at [https://github.com/RahmaHanafi](https://github.com/RahmaHanafi)
 
-- 💬 Ask me about **OOP, PS & Flutter**
+<!-- - 💬 Ask me about **OOP, PS & Flutter** -->
 
 - 📫 How to reach me **rahmahanafi809@gmail.com**
 
@@ -73,9 +73,9 @@
             <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
             <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 </p>
-<!---<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmahanafi&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="rahmahanafi" />
-</p>-->
+</p> -->
 
 <br>
 <br>
