@@ -40,7 +40,7 @@
 <a href="https://fb.com/rahma.hanafy.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahma.hanafy.92" height="30" width="40" /></a>
 </p>
 
-<br>
+<!-- <br> -->
 
 <h3 align="left">
             <img src="connections.gif" width=60 height=60> 
@@ -51,7 +51,7 @@
 <a href="https://www.hackerrank.com/rahmahanafi809?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="rahmahanafi" height="50" width="50" /></a>
 </p>
 
-<br>
+<!-- <br> -->
 <h3 align="left">
             <img src="languages_tools.gif" width=60 height=60> 
             Languages and Tools:
