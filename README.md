@@ -76,12 +76,13 @@
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmahanafi&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="rahmahanafi" />
 </p> -->
-
-<br>
 <br>
 
 <p align="center">
-<img width="60%" src="https://streak-stats.demolab.com?user=rahmahanafi&theme=tokyonight_duo&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="rahmahanafi" />
+            <img width="60%" src="https://streak-stats.demolab.com?user=rahmahanafi&theme=tokyonight_duo&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="rahmahanafi" />
+            <a href="https://app.daily.dev/Rahma">           
+                        <img src="https://api.daily.dev/devcards/12b708f220414c8ca339f2c56ca67c5a.png?r=o91" width="180" alt="Rahma Hanafi's Dev Card"/>
+            </a>
 </p>
 
 <!--&nbsp;<img width="45%" src="https://github-readme-stats.vercel.app/api?username=rahmahanafi&show_icons=true&locale=en&theme=tokyonight" alt="rahmahanafi" /> 
