@@ -76,7 +76,6 @@
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmahanafi&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="rahmahanafi" />
 </p> -->
-<br>
 
 <p align="center">
             <img width="60%" src="https://streak-stats.demolab.com?user=rahmahanafi&theme=tokyonight_duo&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="rahmahanafi" />
