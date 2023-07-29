@@ -13,9 +13,9 @@
         </h3>
 <img src="person.gif" width=170 height=200 align="right">
 
-- 🔭 I’m currently training **Web & UI Development Trainee at ITI**
+- 🔭 I recently graduated from Track **Web & UI Development at ITI**
 
-- 👩🏻‍🎓 I recently graduated from **Faculty of Computers and Informatics, Suez Canal University**
+- 👩🏻‍🎓 I graduated from **Faculty of Computers and Informatics, Suez Canal University**
 
 <!-- - 👯 I’m looking to collaborate on **Flutter projects** -->
 
