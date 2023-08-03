@@ -87,10 +87,10 @@
             <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
             <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
 </p>
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rahmahanafi&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="rahmahanafi" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmahanafi&show_icons=true&locale=en&theme=tokyonight&layout=compact&hide_border=true" alt="rahmahanafi" />
-</p>
+</p> -->
 
 <p align="center">
             <img width="60%" src="https://streak-stats.demolab.com?user=rahmahanafi&theme=tokyonight&border_radius=10&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="rahmahanafi" />
