@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Rahma Hanafi    <img src="Hi.gif" width=50 height=70> </h1>
 
 <p align="center">
-<!--
+<!--    
             <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.demolab.com?font=Cambria&size=25&pause=1000&color=70A5FD&center=true&width=435&lines=Mobile+Application+Developer+%22Flutter%22;Problem+Solver" alt="Typing SVG" /></a>
 </p> -->
