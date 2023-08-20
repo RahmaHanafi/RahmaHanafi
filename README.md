@@ -97,7 +97,10 @@
                         <img src="https://api.daily.dev/devcards/12b708f220414c8ca339f2c56ca67c5a.png?r=o91" width="180" alt="Rahma Hanafi's Dev Card"/>
             </a>
 </p>
-
+<!--
+## 🐍 A Snake Eating My Contributions Graph
+&-->
+<!--
 <p align="center">
 	<picture>
 		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahmaHanafi/RahmaHanafi/output/github-contribution-grid-snake-dark.svg">
@@ -105,6 +108,7 @@
 		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RahmaHanafi/RahmaHanafi/output/github-contribution-grid-snake.svg">
     </picture>
 </p>
+&-->
 
 
 <!--
