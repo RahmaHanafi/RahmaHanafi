@@ -6,12 +6,11 @@
 </p>
 
  
-<h3 align="left">
-            <img src="about_me.gif" width=60 height=60> 
-            About me:
-        </h3>
-<img src="person.gif" width=170 height=200 align="right">
+ ## <img src="about_me.gif" width=60 height=60> About me
 
+ <img src="person.gif" width=170 height=200 align="right">
+ <br><br>
+		
 - 🔭 I recently graduated from Track **Web & UI Development at ITI**
 
 - 👩🏻‍🎓 I graduated from **Faculty of Computers and Informatics, Suez Canal University**
@@ -25,7 +24,6 @@
 - 📫 How to reach me **rahmahanafi809@gmail.com**
 
 - ⚡ Fun fact **I love playing chess♟️**
-
 
 <br>
 
