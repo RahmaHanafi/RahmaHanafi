@@ -34,8 +34,6 @@
 <a href="https://fb.com/rahma.hanafy.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahma.hanafy.92" height="30" width="40" /></a>
 </p>
 
-<!-- <br> -->
-
 ## <img src="connections.gif"  width=60 height=60/> My competitive programming profiles 
 
 <p align="center">     
