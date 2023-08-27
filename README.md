@@ -5,7 +5,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&weight=500&size=30&pause=1000&center=true&width=435&lines=Software+Engineer;Front-end+Developer;Competitive+Programmer" alt="Typing SVG" /></a>
 </p>
 
- 
  ## <img src="about_me.gif" width=60 height=60> About me
 
  <img src="person.gif" width=170 height=200 align="right">
