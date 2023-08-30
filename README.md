@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmahanafi&label=Profile%20views&color=0e75b6&style=flat-square" alt="rahmahanafi" /> </p>
-<h1 align="center">Hi, I'm Rahma Hanafi    <img src="Hi.gif" width=50 height=70> </h1>
+<h1 align="center">Hi, I'm Rahma Hanafi <img src="Hi.gif" width=50 height=70> </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&weight=500&size=30&pause=1000&center=true&width=435&lines=Software+Engineer;Front-end+Developer;Competitive+Programmer" alt="Typing SVG" /></a>
