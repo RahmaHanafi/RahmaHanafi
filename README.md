@@ -19,6 +19,8 @@
 
 <!-- - 💬 Ask me about **OOP, PS & Flutter** -->
 
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1rGx6efnB_UrZ8bF4Ts7gAKWvPXtJoIuj/view?usp=drive_link)
+
 - 📫 How to reach me **rahmahanafi809@gmail.com**
 
 - ⚡ Fun fact **I love playing chess♟️**
