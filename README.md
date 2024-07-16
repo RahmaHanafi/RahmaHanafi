@@ -10,7 +10,7 @@
 		
 - 🔭 I recently graduated from Track **Web & UI Development at ITI**
 
-- 👩🏻‍🎓 I graduated from **Faculty of Computers and Informatics, Suez Canal University**
+
 
 <!-- - 👯 I’m looking to collaborate on **Flutter projects** -->
 
