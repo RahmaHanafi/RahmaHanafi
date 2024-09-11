@@ -78,14 +78,13 @@
 		     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
 <p align='center'>
-	
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmahanafi&show_icons=true&locale=en&theme=tokyonight&layout=compact&hide_border=true" alt="rahmahanafi" />    
 </p>
-<p >
-  	<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmahanafi&show_icons=true&locale=en&theme=tokyonight&layout=compact&hide_border=true" alt="rahmahanafi" />    
-	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=rahmahanafi&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="rahmahanafi" /> 
+<p align='center'>
+  	<img src="https://github-readme-stats.vercel.app/api?username=rahmahanafi&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="rahmahanafi" /> 
 </p>
 <p align="center">
-            <img width="100%" src="https://streak-stats.demolab.com?user=rahmahanafi&theme=tokyonight&border_radius=10&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="rahmahanafi" />
+            <img src="https://streak-stats.demolab.com?user=rahmahanafi&theme=tokyonight&border_radius=10&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="rahmahanafi" />
 <!--             <a href="https://app.daily.dev/Rahma">           
                         <img src="https://api.daily.dev/devcards/12b708f220414c8ca339f2c56ca67c5a.png?r=o91" width="180" alt="Rahma Hanafi's Dev Card"/>
             </a> -->
