@@ -8,7 +8,7 @@
 
  <img src="person.gif" width=170 height=200 align="right">
 		
-- 🔭 I recently graduated from Track **Web & UI Development at ITI**
+- 🔭 I graduated from Track **Web & UI Development at ITI**
 
 - 👩🏻‍🎓 I graduated from **Faculty of Computers and Informatics, Suez Canal University**
 
