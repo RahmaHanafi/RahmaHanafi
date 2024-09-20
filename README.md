@@ -29,19 +29,20 @@
 ##  <img src="connect-with-me1.gif" width=60 height=60> Connect with me
        
 <p align="center">
-<!-- 	<a href="mailto:rahmahanafi809@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4350.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://twitter.com/rahmahanafi00"><img img src="https://img.shields.io/badge/x-%23EA4335.svg?style=social&logo=x&logoColor=black" alt="Twitter"/></a>
-	<a href="https://twitter.com/rahmahanafi00"><img img src="https://img.shields.io/badge/x-%23EA4335.svg?style=flat-square&logo=x&logoColor=black" alt="Twitter"/></a>
-	<a href="https://twitter.com/rahmahanafi00"><img img src="https://img.shields.io/badge/x-%23EA4335.svg?style=flat&logo=x&logoColor=black" alt="Twitter"/></a>
-	<a href="https://twitter.com/rahmahanafi00"><img img src="https://img.shields.io/badge/x-%23EA4335.svg?style=for-the-badge&logo=x&logoColor=black" alt="Twitter"/></a> -->
+ 	<a href="mailto:rahmahanafi809@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%2308851b.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/rahma-hanafi"><img img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://fb.com/rahma.hanafy.92"><img img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+ 	<a href="https://twitter.com/rahmahanafi00"><img img src="https://img.shields.io/badge/X-%23000000.svg?style=plastic&logo=x&logoColor=white" alt="Twitter"/></a>
+<!-- 	<a href="https://twitter.com/rahmahanafi00"><img img src="https://img.shields.io/badge/x-%23EA4335.svg?style=for-the-badge&logo=x&logoColor=black" alt="Twitter"/></a>
 <a href="https://twitter.com/rahmahanafi00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahmahanafi00" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rahma-hanafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahma-hanafi-6416a1210" height="30" width="40" /></a>
-<a href="https://fb.com/rahma.hanafy.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahma.hanafy.92" height="30" width="40" /></a>
+<a href="https://fb.com/rahma.hanafy.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahma.hanafy.92" height="30" width="40" /></a> -->
 </p>
 
 ## <img src="profile1.gif"  width=60 height=60/> My competitive programming profiles 
 
-<p align="center">     
+<p align="center">
+<!-- 	<a href="mailto:rahmahanafi809@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%2308851b.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a> -->
             <a href="https://codeforces.com/profile/rahmahanafi" target="blank">
                         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rahmahanafi" height="40" width="40" />
             </a>
