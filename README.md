@@ -67,17 +67,17 @@
 	<a href="https://www.python.org" target="_blank" ><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white" alt="Python"/></a>
 	<a href="https://www.w3.org/html/" target="_blank" ><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5"/></a>
 	<a href="https://www.w3schools.com/css/" target="_blank" ><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3"/></a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" ><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=white" alt="JavaScript"/></a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" ><img src="https://img.shields.io/badge/JavaScript-%23f7e018.svg?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/></a>
 	<a href="https://www.typescriptlang.org/" target="_blank" ><img src="https://img.shields.io/badge/TypeScript-%232B7489.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-	<a href="https://angular.io" target="_blank" ><img src="https://img.shields.io/badge/Angular-%E03E31.svg?style=plastic&logo=angular&logoColor=white" alt="Angular"/></a>
-	<a href="https://reactjs.org/" target="_blank" ><img src="https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=white" alt="React"/></a>
-	<a href="https://tailwindcss.com/" target="_blank" ><img src="https://img.shields.io/badge/Tailwind_CSS-%06B6D4.svg?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
-	<a href="https://getbootstrap.com" target="_blank" ><img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
+	<a href="https://angular.io" target="_blank" ><img src="https://img.shields.io/badge/Angular-%23c3002f.svg?style=plastic&logo=angular&logoColor=white" alt="Angular"/></a>
+	<a href="https://reactjs.org/" target="_blank" ><img src="https://img.shields.io/badge/React-%2358c4dc.svg?style=plastic&logo=react&logoColor=white" alt="React"/></a>
+	<a href="https://tailwindcss.com/" target="_blank" ><img src="https://img.shields.io/badge/Tailwind_CSS-%2338BDF8.svg?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
+	<a href="https://getbootstrap.com" target="_blank" ><img src="https://img.shields.io/badge/Bootstrap-%237A52B3.svg?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
 <!-- 	<a href="https://dart.dev" target="_blank" ><img src="https://img.shields.io/badge/Dart-%00B3E3.svg?style=plastic&logo=dart&logoColor=white" alt="Dart"/></a>
 	<a href="https://flutter.dev" target="_blank" ><img src="https://img.shields.io/badge/Flutter-%00B3E3.svg?style=plastic&logo=flutter&logoColor=white" alt="Flutter"/></a> -->
-	<a href="https://postman.com" target="_blank" ><img src="https://img.shields.io/badge/Postman-%EF7A3C.svg?style=plastic&logo=postman&logoColor=white" alt="Postman"/></a>
+	<a href="https://postman.com" target="_blank" ><img src="https://img.shields.io/badge/Postman-%23fd6c35.svg?style=plastic&logo=postman&logoColor=white" alt="Postman"/></a>
 	<a href="https://www.figma.com/" target="_blank" ><img src="https://img.shields.io/badge/Figma-%F24E1B.svg?style=plastic&logo=figma&logoColor=white" alt="Figma"/></a>
-	<a href="https://git-scm.com/" target="_blank" ><img src="https://img.shields.io/badge/Git-%F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git"/></a>
+	<a href="https://git-scm.com/" target="_blank" ><img src="https://img.shields.io/badge/Git-%23f05033.svg?style=plastic&logo=git&logoColor=white" alt="Git"/></a>
 	<a href="https://www.mathworks.com/" target="_blank" ><img src="https://img.shields.io/badge/Matlab-%23E5A000.svg?style=plastic&logo=matlab&logoColor=white" alt="Matlab"/></a>
 	<a href="https://www.mysql.com/" target="_blank" ><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL"/></a>
 	<a href="https://www.oracle.com/" target="_blank" ><img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=plastic&logo=oracle&logoColor=white" alt="Oracle"/></a> 
