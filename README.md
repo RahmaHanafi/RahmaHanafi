@@ -64,11 +64,11 @@
 <p align="center">
 	<a href="https://www.cprogramming.com/" target="_blank" ><img src="https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C"/></a>
 	<a href="https://www.w3schools.com/cpp/" target="_blank" ><img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
-	<a href="https://www.python.org" target="_blank" ><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white" alt="Python"/></a>
-	<a href="https://www.w3.org/html/" target="_blank" ><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5"/></a>
-	<a href="https://www.w3schools.com/css/" target="_blank" ><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3"/></a>
+	<a href="https://www.python.org" target="_blank" ><img src="https://img.shields.io/badge/Python-%232e6c9c.svg?style=plastic&logo=python&logoColor=white" alt="Python"/></a>
+	<a href="https://www.w3.org/html/" target="_blank" ><img src="https://img.shields.io/badge/HTML5-%23e44d26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5"/></a>
+	<a href="https://www.w3schools.com/css/" target="_blank" ><img src="https://img.shields.io/badge/CSS3-%231572b7.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3"/></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" ><img src="https://img.shields.io/badge/JavaScript-%23f7e018.svg?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-	<a href="https://www.typescriptlang.org/" target="_blank" ><img src="https://img.shields.io/badge/TypeScript-%232B7489.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+	<a href="https://www.typescriptlang.org/" target="_blank" ><img src="https://img.shields.io/badge/TypeScript-%232d79c7.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript"/></a>
 	<a href="https://angular.io" target="_blank" ><img src="https://img.shields.io/badge/Angular-%23c3002f.svg?style=plastic&logo=angular&logoColor=white" alt="Angular"/></a>
 	<a href="https://reactjs.org/" target="_blank" ><img src="https://img.shields.io/badge/React-%2358c4dc.svg?style=plastic&logo=react&logoColor=white" alt="React"/></a>
 	<a href="https://tailwindcss.com/" target="_blank" ><img src="https://img.shields.io/badge/Tailwind_CSS-%2338BDF8.svg?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
@@ -79,11 +79,11 @@
 	<a href="https://www.figma.com/" target="_blank" ><img src="https://img.shields.io/badge/Figma-%F24E1B.svg?style=plastic&logo=figma&logoColor=white" alt="Figma"/></a>
 	<a href="https://git-scm.com/" target="_blank" ><img src="https://img.shields.io/badge/Git-%23f05033.svg?style=plastic&logo=git&logoColor=white" alt="Git"/></a>
 	<a href="https://www.mathworks.com/" target="_blank" ><img src="https://img.shields.io/badge/Matlab-%23E5A000.svg?style=plastic&logo=matlab&logoColor=white" alt="Matlab"/></a>
-	<a href="https://www.mysql.com/" target="_blank" ><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL"/></a>
-	<a href="https://www.oracle.com/" target="_blank" ><img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=plastic&logo=oracle&logoColor=white" alt="Oracle"/></a> 
-	<a href="https://www.docker.com/" target="_blank" ><img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white" alt="Docker"/></a>
-	<a href="https://www.mongodb.com/" target="_blank" ><img src="https://img.shields.io/badge/MongoDB-%230A673B.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
-	<a href="https://nestjs.com/" target="_blank" ><img src="https://img.shields.io/badge/NestJS-%E0234E.svg?style=plastic&logo=nestjs&logoColor=white" alt="NestJS"/></a>
+	<a href="https://www.mysql.com/" target="_blank" ><img src="https://img.shields.io/badge/MySQL-%2300758f.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL"/></a>
+	<a href="https://www.oracle.com/" target="_blank" ><img src="https://img.shields.io/badge/Oracle-%23e32124.svg?style=plastic&logo=oracle&logoColor=white" alt="Oracle"/></a> 
+	<a href="https://www.docker.com/" target="_blank" ><img src="https://img.shields.io/badge/Docker-%230092e6.svg?style=plastic&logo=docker&logoColor=white" alt="Docker"/></a>
+	<a href="https://www.mongodb.com/" target="_blank" ><img src="https://img.shields.io/badge/MongoDB-%2300684a.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+	<a href="https://nestjs.com/" target="_blank" ><img src="https://img.shields.io/badge/NestJS-%23ea2845.svg?style=plastic&logo=nestjs&logoColor=white" alt="NestJS"/></a>
 	<a href="https://nodejs.org" target="_blank" ><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white" alt="Node.js"/></a>
 <!--             <a href="https://www.cprogramming.com/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
             <a href="https://www.w3schools.com/cpp/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
