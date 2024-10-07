@@ -122,6 +122,8 @@
             </a> -->
 </p>
 
+<!--<p>(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)</p>-->
+
 ## 🐍 A Snake Eating My Contributions Graph
 
 <p align="center">
