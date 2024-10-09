@@ -85,6 +85,7 @@
 	<a href="https://www.mongodb.com/" target="_blank" ><img src="https://img.shields.io/badge/MongoDB-%2300684a.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
 	<a href="https://nestjs.com/" target="_blank" ><img src="https://img.shields.io/badge/NestJS-%23ea2845.svg?style=plastic&logo=nestjs&logoColor=white" alt="NestJS"/></a>
 	<a href="https://nodejs.org" target="_blank" ><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white" alt="Node.js"/></a>
+	
 <!--             <a href="https://www.cprogramming.com/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
             <a href="https://www.w3schools.com/cpp/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
             <a href="https://www.python.org" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
