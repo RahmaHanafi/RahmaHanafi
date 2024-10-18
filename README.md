@@ -1,17 +1,16 @@
 <h1 align="center">Hi, I'm Rahma Hanafi <img src="Hi.gif" width=50 height=70> </h1>
-
 <p align="center" >
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&weight=500&size=30&pause=1000&center=true&width=435&lines=Software+Engineer;Front-end+Developer;Competitive+Programmer" alt="Typing SVG" /></a></p>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahmahanafi&label=Profile%20views&color=0e75b6&style=plastic" alt="rahmahanafi" /> </p>
-
-
+  
  ## <img src="about_me.gif" width=60 height=60> About me
-
  <img src="person.gif" width=170 height=200 align="right">
 		
 - 🔭 I graduated from Track **Web & UI Development at ITI**
-
 - 👩🏻‍🎓 I graduated from **Faculty of Computers and Informatics, Suez Canal University**
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1fkDA3L0c94D60pEPBmtT-iltRrIfjXrb/view?usp=sharing)
+- 📫 How to reach me **rahmahanafi809@gmail.com** 
+- ⚡ Fun fact **I love playing chess♟️**
 
 <!-- - 👯 I’m looking to collaborate on **Flutter projects** -->
 
@@ -19,16 +18,9 @@
 
 <!-- - 💬 Ask me about **OOP, PS & Flutter** -->
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1fkDA3L0c94D60pEPBmtT-iltRrIfjXrb/view?usp=sharing)
-
-- 📫 How to reach me **rahmahanafi809@gmail.com**
-
-- ⚡ Fun fact **I love playing chess♟️**
-
 <br>
 
-##  <img src="connect-with-me1.gif" width=60 height=60> Connect with me
-       
+##  <img src="connect-with-me1.gif" width=60 height=60> Connect with me      
 <p align="center">
  	<a href="mailto:rahmahanafi809@gmail.com" target="blank"><img img src="https://img.shields.io/badge/Gmail-%2308851b.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/rahma-hanafi" target="blank"><img img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
