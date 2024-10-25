@@ -4,7 +4,7 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahmahanafi&label=Profile%20views&color=0e75b6&style=plastic" alt="rahmahanafi" /> </p>
   
  ## <img src="about_me.gif" width=60 height=60> About me
- <img src="person.gif" width=170 height=200 align="right">
+ <img src="person.gif" width=170 height=200 align="right" />
  
 		
 - 🔭 I graduated from Track **Web & UI Development at ITI**
