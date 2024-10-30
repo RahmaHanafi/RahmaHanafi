@@ -23,9 +23,9 @@
 ##  <img src="connect-with-me1.gif" width=60 height=60> Connect with me      
 <p align="center">
  	<a href="mailto:rahmahanafi809@gmail.com" target="blank"><img img src="https://img.shields.io/badge/Gmail-%2308851b.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/rahma-hanafi" target="blank"><img img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://fb.com/rahma.hanafy.92" target="blank"><img img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
- 	<a href="https://twitter.com/rahmahanafi00" target="blank"><img img src="https://img.shields.io/badge/X-%23000000.svg?style=plastic&logo=x&logoColor=white" alt="Twitter"/></a>
+	<a href="https://www.linkedin.com/in/rahma-hanafi" target="blank"><img img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+	<a href="https://fb.com/rahma.hanafy.92" target="blank"><img img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"></a>
+ 	<a href="https://twitter.com/rahmahanafi00" target="blank"><img img src="https://img.shields.io/badge/X-%23000000.svg?style=plastic&logo=x&logoColor=white" alt="Twitter"></a>
 
  
 <!-- 	<a href="https://twitter.com/rahmahanafi00"><img img src="https://img.shields.io/badge/x-%23EA4335.svg?style=for-the-badge&logo=x&logoColor=black" alt="Twitter"/></a>
