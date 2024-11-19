@@ -12,7 +12,6 @@
 - 📫 How to reach me **rahmahanafi809@gmail.com** 
 - ⚡ Fun fact **I love playing chess♟️**
 <!-- - 👯 I’m looking to collaborate on **Flutter projects** -->
-
 <!-- - 👩🏻‍💻 All of my projects are available at [https://github.com/RahmaHanafi](https://github.com/RahmaHanafi) -->
 
 <!-- - 💬 Ask me about **OOP, PS & Flutter** -->
