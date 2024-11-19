@@ -15,6 +15,7 @@
 <!-- - 👩🏻‍💻 All of my projects are available at [https://github.com/RahmaHanafi](https://github.com/RahmaHanafi) -->
 
 <!-- - 💬 Ask me about **OOP, PS & Flutter** -->
+- 📄  Know about my experiences [My Resume](https://drive.google.com/file/d/1rGx6efnB_UrZ8bF4Ts7gAKWvPXtJoIuj/view?usp=drive_link)
 
 <br>
 
