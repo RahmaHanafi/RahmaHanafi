@@ -14,7 +14,6 @@
 <!-- - 👯 I’m looking to collaborate on **Flutter projects** -->
 <!-- - 👩🏻‍💻 All of my projects are available at [https://github.com/RahmaHanafi](https://github.com/RahmaHanafi) -->
 <!-- - 💬 Ask me about **OOP, PS & Flutter** -->
-
 <br>
 
 ##  <img src="connect-with-me1.gif" width=60 height=60> Connect with me      
