@@ -7,6 +7,7 @@
  <img src="person.gif" width=170 height=200 align="right" />
 
 
+
 - 🔭 I graduated from Track **Web & UI Development at ITI**
 - 👩🏻‍🎓 I graduated from **Faculty of Computers and Informatics, Suez Canal University**
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1fkDA3L0c94D60pEPBmtT-iltRrIfjXrb/view?usp=sharing)
