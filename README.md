@@ -2,6 +2,7 @@
 <p align="center" >
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&weight=500&size=30&pause=1000&center=true&width=435&lines=Software+Engineer;Front-end+Developer;Competitive+Programmer" alt="Typing SVG" /></a></p>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahmahanafi&label=Profile%20views&color=0e75b6&style=plastic" alt="rahmahanafi" /> </p>
+
   
  ## <img src="about_me.gif" width=60 height=60> About me
  <img src="person.gif" width=170 height=200 align="right" />
