@@ -5,7 +5,6 @@
 
 
 
-  
  ## <img src="about_me.gif" width=60 height=60> About me
  <img src="person.gif" width=170 height=200 align="right" />
 
